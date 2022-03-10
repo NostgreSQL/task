@@ -1,0 +1,2 @@
+#Дана строка. Программа должна посчитать количество символов в ней и вывести на экран число.
+sms = ("The history of the Python programming language began in the late 1980s. Gvido van Rossum conceived Python in the 1980s, and he began his work in December 1989 at the center of mathematics and computer science in the Netherlands.")
